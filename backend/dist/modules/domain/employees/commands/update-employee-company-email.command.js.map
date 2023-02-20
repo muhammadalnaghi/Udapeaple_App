@@ -1,0 +1,1 @@
+{"version":3,"file":"update-employee-company-email.command.js","sourceRoot":"","sources":["../../../../../src/modules/domain/employees/commands/update-employee-company-email.command.ts"],"names":[],"mappings":";;AAEA,MAAa,0BAA0B;IAIrC,YAAY,UAAkB,EAAE,YAAoB;QAClD,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAC7B,IAAI,CAAC,YAAY,GAAG,YAAY,CAAC;IACnC,CAAC;CACF;AARD,gEAQC"}

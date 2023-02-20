@@ -1,0 +1,1 @@
+{"version":3,"file":"deactivate-employee.command.js","sourceRoot":"","sources":["../../../../../src/modules/domain/employees/commands/deactivate-employee.command.ts"],"names":[],"mappings":";;AAEA,MAAa,kBAAkB;IAI7B,YAAY,UAAkB,EAAE,QAAiB;QAC/C,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAC7B,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC3B,CAAC;CACF;AARD,gDAQC"}

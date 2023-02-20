@@ -1,0 +1,1 @@
+{"version":3,"file":"employee-created.event.js","sourceRoot":"","sources":["../../../../../src/modules/domain/employees/events/employee-created.event.ts"],"names":[],"mappings":";;AAEA,MAAa,eAAe;IAG1B,YAAY,UAAkB,EAAE,SAAiB;QAC/C,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAC7B,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;IAC7B,CAAC;CACF;AAPD,0CAOC"}

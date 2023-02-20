@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+require("reflect-metadata");
+const constants_1 = require("./constants");
+exports.Saga = () => {
+    return (target, propertyKey) => {
+        const properties = Reflect.getMetadata(constants_1.SAGA_METADATA, target.constructor) || [];
+        Reflect.defineMetadata(constants_1.SAGA_METADATA, [...properties, propertyKey], target.constructor);
+    };
+};
